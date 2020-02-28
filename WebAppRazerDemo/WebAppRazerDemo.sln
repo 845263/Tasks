@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppRazerDemo", "WebAppRazerDemo.csproj", "{B9D469D5-03C1-45E3-8BE2-9546369A9FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D469D5-03C1-45E3-8BE2-9546369A9FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D469D5-03C1-45E3-8BE2-9546369A9FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D469D5-03C1-45E3-8BE2-9546369A9FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D469D5-03C1-45E3-8BE2-9546369A9FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A8121C-D173-45BC-B38D-0C6F21E4DA9D}
+	EndGlobalSection
+EndGlobal
